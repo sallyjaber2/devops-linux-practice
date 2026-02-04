@@ -12,4 +12,7 @@ sudo chmod -aG sudo devops
 su - devops 
 mkdir 
 touch 
+#Create a Dockerfile 
+#Build Docker imange 
+#Run HTML container in port 8080:80 using Nginx 
 
